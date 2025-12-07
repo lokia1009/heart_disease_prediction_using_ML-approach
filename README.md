@@ -16,12 +16,6 @@ The final solution provides a reliable end-to-end ML workflow suitable for healt
 5. **Build interactive visual dashboards:**: Develop optimized Power BI dashboards to visualize KPIs, trends, and segment-level performance for informed decision-making.
 
 ## Project Structure
-### Database Setup
-
-- **Database Creation**: The project starts by importing data from local CSV file and creating a database named `sql_project_p1`.
-- **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
-- **Data Quality**: Some columns are in the wrong format (e.g., sale_date as text, sale_time as text), and the dataset contains duplicates and NULL values.
-
 
 ### 1. Data Quality & Preparation
 - Imported heart disease dataset and performed full data validation
