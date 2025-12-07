@@ -9,11 +9,11 @@ The final solution provides a reliable end-to-end ML workflow suitable for healt
 
 ## Objectives
 
-1. **Set up a retail sales database**: Create, format, and populate a complete SQL database to store and manage retail sales data.
-2. **Data cleaning & preparation**: Fix data-type issues, remove duplicates, and handle missing values to ensure accuracy and consistency.
-3. **Exploratory Data Analysis (EDA)**: Analyze key dimensions, time attributes, and numerical measures to understand data patterns and distributions.
-4. **Business Analysis**: Use SQL (window functions, CTEs, aggregations) to uncover insights on revenue, profitability, customer behavior, category trends, and time-series patterns.
-5. **Build interactive visual dashboards:**: Develop optimized Power BI dashboards to visualize KPIs, trends, and segment-level performance for informed decision-making.
+1. Clean and prepare raw medical dataset for analysis
+2. Explore clinical attributes to understand their influence on heart disease
+3. Engineer and scale features to enhance ML model performance
+4. Develop ensemble models for robust predictions
+5. Train, evaluate, and validate model accuracy using standard metrics
 
 ## Project Structure
 
@@ -22,7 +22,6 @@ The final solution provides a reliable end-to-end ML workflow suitable for healt
 - Removed duplicate entries and inconsistent records
 - Verified and corrected datatypes to ensure model readiness
 - Prepared a clean, structured dataset for downstream tasks
-
 
 ### 2. Exploratory Data Analysis
 
